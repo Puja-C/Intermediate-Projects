@@ -1,2 +1,2 @@
 # Intermediate-Projects
-Few intermediate level projects implemented using Python. 
+Intermediate level projects implemented using Python. 
